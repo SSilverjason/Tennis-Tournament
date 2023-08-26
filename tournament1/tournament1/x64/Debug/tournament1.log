@@ -1,0 +1,5 @@
+﻿  assignment4.cpp
+C:\Users\Andres\source\repos\tournament1\tournament1\assignment4.cpp(54,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Andres\source\repos\tournament1\tournament1\assignment4.cpp(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Andres\source\repos\tournament1\tournament1\assignment4.cpp(106,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tournament1.vcxproj -> C:\Users\Andres\source\repos\tournament1\x64\Debug\tournament1.exe
